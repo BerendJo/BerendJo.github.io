@@ -11,7 +11,7 @@ This website is based off a template. Certain components were changed to match m
 
 ## Files & Directories
 Below is a list of all the files and their purposes.
-### css
+## css
 This folder contains all the stylesheets.
 
 
@@ -27,7 +27,7 @@ Styles the base components seperately, to create unique styles.
 #### Vendor.css
 Loads special carousel components and such.
 
-### fonts
+## fonts
 Contains all the necessary fonts.
 
 #### Lora
@@ -36,23 +36,23 @@ Contains the font 'Lora' including different weights and styles.
 #### Poppins
 Contains the font 'Poppins' including different weights and styles.
 
-### Images
+## Images
 Contains all the images used in the website.
 
 
 #### Portfolio
 Contains all the images used in the 'Portfolio' section.
 
-### inc
+## inc
 contains the php to make the contact form work properly.
 
-### js
+## js
 Contains all the necessary JavaScript files to make animations, buttons and other components work.
 
-### Favicon
+## Favicon
 The small icon top left in your browser window.
 
-### Index
+## Index
 All the HTML5 markup to create the page.
 
 
